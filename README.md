@@ -17,7 +17,7 @@ Note: Python 3.12 is highly recommended and will have the best compatibility.
 ## ⚙️ Installation & Setup
 ### 1. Clone the Repository
 ```bash
-git clone git@github.com:ShinShinShen/Firefind-Firewall.git
+git clone https://github.com/ShinShinShen/Firefind-Firewall
 
 cd Firefind-Firewall
 ```
