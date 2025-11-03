@@ -23,6 +23,11 @@ cd Firefind-Firewall
 ```
 ## 2. Create a Virtual Environment
 ```bash
+python3 -m venv .venv
+```
+If there are errors with installing depedencies on some systems, using python 3.12 usually fixes it. See below.
+
+```bash
 python3.12 -m venv .venv
 ```
 
